@@ -1,0 +1,12 @@
+{
+    "name": "brackets-silverstripe",
+    "title": "Brackets-Silverstripe - Silverstripe Template Support for Brackets",
+    "description": "Adds Silverstripe (templating engine) support to Brackets",
+    "version": "0.0.2",
+    "homepage": "https://github.com/Maldicore/brackets-silverstripe",
+    "author": "Maldicore Group Pvt Ltd (https://github.com/Maldicore)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.31.0"
+    }
+}
