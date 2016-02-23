@@ -8,6 +8,6 @@ define(function (require, exports, module) {
 
     var language = LanguageManager.getLanguage("php");
     
-    language.addFileExtension("silverstripe.ss");
+    language.addFileExtension(".ss");
     language.setBlockCommentSyntax("<%--", "--%>");
 });
